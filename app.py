@@ -12,3 +12,11 @@ if st.button("Test this"):
   plt.xlabel("Time")
   plt.ylabel("Value")
   st.pyplot(plt.gcf()) 
+
+if st.button("Person Profile"):
+
+if st.button("Publications"):
+
+if st.button("Experience"):
+  
+
