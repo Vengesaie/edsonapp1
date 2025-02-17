@@ -14,9 +14,12 @@ if st.button("Test this"):
   st.pyplot(plt.gcf()) 
 
 if st.button("Person Profile"):
+  time_series = np.random.randn(100)
 
 if st.button("Publications"):
+  time_series = np.random.randn(100)
 
 if st.button("Experience"):
+  time_series = np.random.randn(100)
   
 
