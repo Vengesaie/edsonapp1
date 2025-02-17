@@ -15,6 +15,7 @@ if st.button("Test this"):
 
 if st.button("Person Profile"):
   time_series = np.random.randn(100)
+  st.text("This my profile")
 
 if st.button("Publications"):
   time_series = np.random.randn(100)
